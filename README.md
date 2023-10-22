@@ -1,4 +1,4 @@
-# correcao_sisbol
+# Correções SISBOL 2.5
 Script Bash de correções diversas para SISBOL versão 2.5 
 
 (SCRIPT OBSOLETO e sem manutenção)
