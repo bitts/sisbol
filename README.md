@@ -1,10 +1,17 @@
 # Correções SISBOL 2.5
 Script Bash de correções diversas para SISBOL versão 2.5 
 
+O SisBol, no contexto do Exército Brasileiro, refere-se ao Sistema de Boletim e Alterações, um sistema informatizado utilizado para registrar e gerenciar a vida funcional dos militares. Ele automatiza a criação de boletins internos e o histórico de alterações, unificando processos e reduzindo a necessidade de trabalho manual. 
+
+
+<https://prezi.com/3c7dszd78zth/sisbol-13o-gac/#:~:text=SisBol%20%C3%A9%20um%20aplicativo%20Web,hist%C3%B3rico%20pessoal%20militar%20(altera%C3%A7%C3%B5es).>
+
+
 (SCRIPT OBSOLETO e sem manutenção)
 
 
 Não executar em ambiente de produção!!
+Interessante montar máquina virtual com cópia da sua aplicação atual que esta em produção e realizar aplicação do script nesta cópia para atestar efetividade.
 
 ATENÇÃO: É recomendado a realização de Backup dos Arquivos do Sistema e da Base de Dados do SISBOL de forma independente sem a utilização do Script, uma vez que caso o servidor não possua espaço em disco os backups podem não serem realizados.
 
